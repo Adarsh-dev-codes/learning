@@ -1,1 +1,3 @@
-# learning
+# MY CODING JOURNEY 
+
+HELLO! I'M LEARNING GITHUB
