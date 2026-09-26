@@ -1,3 +1,12 @@
-# MY CODING JOURNEY 
+# My Coding Journey
 
-HELLO! I'M LEARNING GITHUB
+Hello! I'm learning programming and software development.
+
+## Current Learning
+- GitHub
+- SQL
+- Python
+
+## My Goal
+Become a skilled software developer and build useful projects.
+
